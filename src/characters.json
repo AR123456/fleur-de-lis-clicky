@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./images/Fleur-de-lis1.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./images/Fleur-de-lis19.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./images/Fleur-de-lis15.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./images/Fleur-de-lis17.gif",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./images/Fleur-de-lis18.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./images/Fleur-de-lis14.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./images/Fleur-de-lis7.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./images/Fleur-de-lis8.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./images/Fleur-de-lis9.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./images/Fleur-de-lis10.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./images/Fleur-de-lis14.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./images/Fleur-de-lis12.png",
+    "clicked": false
+  }
+]
