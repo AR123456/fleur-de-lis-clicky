@@ -33,7 +33,7 @@ class App extends Component {
     } else {
       cardClicked[0].clicked = true;
       guessesCorrect = guessesCorrect + 1;
-      message = "Well done keep clicky to get the high score!";
+      message = "Well done keep clicking to get the high score!";
 
       if (guessesCorrect > topScore) {
         topScore = guessesCorrect;
@@ -54,7 +54,7 @@ class App extends Component {
         <div className="main-container">
           <h1>Fleur-de-lis Memory Game!</h1>
           <h3>
-            Fleur-de-lis, ( French: “lily flower”) is an ancient symbol that has
+            Fleur-de-lis, (French: “lily flower”) is an ancient symbol that has
             long been associated with French royalty. Depicting a stylized lily
             or lotus flower seen in many places across the world. It has been
             used in different contexts and has represented peace, war, religion,
